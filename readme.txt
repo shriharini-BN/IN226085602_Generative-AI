@@ -1,3 +1,10 @@
+## 📝 Medium Blog
+
+You can read my detailed blog on LangChain here:
+
+https://medium.com/@shrinatchiyar/lang-chain-explained-in-depth-building-modular-llm-applications-with-python-7060c44c0363
+
+
 # LangChain + Ollama Chatbot
 
 ## Description
